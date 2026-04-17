@@ -1,0 +1,30 @@
+What is npm?
+  - npm (Node Package Manager) is a tool that comes with Node.js and lets you:
+  - install libraries (packages)
+  - manage your project dependencies
+  - run scripts
+
+
+
+Simple explanation
+  - Think of npm like:
+  - App Store for developers
+  - You need something (like Express)
+  - You install it with npm
+  - Then use it in your project
+
+
+
+
+Why npm is important
+  - Without npm:
+  - You would write everything from scratch ❌
+  - With npm:
+  - You reuse ready libraries 
+  - Build faster 
+  - Use industry tools 
+
+
+
+In one sentence
+  - npm is a tool that helps you install and manage packages in Node.js projects.

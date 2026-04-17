@@ -1,0 +1,62 @@
+Definition
+  - Synchronous code means:
+  - Code runs line by line
+  - Each line waits for the previous one to finish
+
+
+
+Simple Example
+    - Code
+        console.log("1");
+        console.log("2");
+        console.log("3");
+    
+    - Output
+        1
+        2
+        3
+
+    - Runs top → bottom, no surprises
+
+
+
+
+Important idea
+  - One task at a time
+  - Blocking behavior
+  - Slow if one operation takes long
+
+
+
+Why this is bad in backend?
+  - Imagine:
+  - User sends request
+  - Server is busy doing heavy task
+  - Other users must WAIT 
+  - This is why pure sync is not good for servers
+
+
+
+Real-life analogy
+  - Sync = single worker
+  - 1.Takes one order
+  - 2.Finishes it completely
+  - 3.Then takes next
+  - Everyone waits in line
+
+
+
+When sync is OK
+  - simple scripts
+  - small programs
+  - calculations
+
+
+Summary (SYNC)
+  - Runs one by one
+  - Blocking
+  - Simple but slow for servers
+
+
+
+

@@ -1,0 +1,32 @@
+What is Express (Express.js)?
+  - Express.js is a minimal web framework for Node.js.
+  - It helps you build web servers and APIs much faster and easier than using plain Node.js.
+
+
+Simple explanation
+  - Node.js = gives you the ability to run JavaScript on a server
+  - Express.js = makes building server apps easier and cleaner
+  - So Express is basically a helper layer on top of Node.js
+
+
+What does Express do?
+  - With Express you can easily:
+    - Create web servers
+    - Handle routes (URLs like /home, /login)
+    - Handle requests (GET, POST, etc.)
+    - Build REST APIs
+    - Send responses (JSON, HTML, etc.)
+
+
+Why Express is popular?
+  - Very simple to learn
+  - Used in most Node.js backend jobs
+  - Huge ecosystem (middleware system)
+  - Perfect for APIs and web apps
+
+
+
+Key idea
+  - Express.js is a framework that simplifies backend development in Node.js by handling routing, requests, and server logic in an easy way.
+
+

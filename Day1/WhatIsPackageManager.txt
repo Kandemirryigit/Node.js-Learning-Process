@@ -1,0 +1,25 @@
+What is a Package Manager?
+  - A package manager is a tool that helps you:
+  - install libraries (packages)
+  - update them
+  - remove them
+  - manage dependencies automatically
+
+
+
+Simple explanation
+  - Instead of writing everything yourself:
+  - you use ready-made code written by others
+  - And the package manager handles downloading and organizing them.
+
+
+
+
+Real-life analogy
+  - Think of it like:
+  - You are cooking 
+  - You don’t grow vegetables yourself
+  - You go to a supermarket and buy them
+  - Package manager = supermarket
+  - Packages = ingredients
+

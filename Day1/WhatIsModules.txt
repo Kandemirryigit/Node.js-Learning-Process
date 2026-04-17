@@ -1,0 +1,41 @@
+Definition
+  - A module is a separate JavaScript file that contains code (functions, variables, objects) and can be used in other files.
+
+  
+
+Purpose of modules
+  - Modules are used to:
+  - split code into smaller parts
+  - make code reusable
+  - keep projects organized
+  - avoid writing everything in one file
+
+
+
+Basic idea
+  - Each file = one module
+  - Example:
+  - auth.js → login system
+  - user.js → user functions
+  - app.js → main file
+
+
+
+
+Two types of modules
+  
+  1-Built-in modules (already inside Node.js)
+    - Examples
+    - fs → file system
+    - http → server
+    - path → file paths
+
+  2-Custom modules (you create them)
+    - Examples:
+    - your own auth.js
+    - your own utils.js
+
+
+
+Key point
+  - Modules = way to organize and reuse code in Node.js projects

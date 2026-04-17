@@ -1,0 +1,51 @@
+What is FastAPI?
+  - FastAPI is a modern Python web framework used to build APIs (especially REST APIs) very quickly and efficiently.
+
+
+Simple explanation
+  - Node.js + Express → JavaScript backend framework
+  - FastAPI → Python backend framework
+  - FastAPI lets you build APIs using Python in a fast, clean, and modern way 
+
+
+Why it’s called “Fast” API?
+  - Because it is:
+    - Very fast (one of the fastest Python frameworks)
+    - Very easy to write
+    - Automatically generates API docs
+
+
+What can you build with FastAPI?
+  - REST APIs
+  - AI / ML backend services
+  - Backend for mobile apps
+  - Database-based systems
+
+
+
+How it works
+  - When you run it:
+   - Client sends request → GET /
+   - FastAPI responds → JSON data
+
+
+
+Automatic API docs (cool feature)
+  - FastAPI automatically creates:
+  - Swagger UI → /docs
+  - ReDoc → /redoc
+  - So you can test your API in the browser without extra tools.
+
+
+
+Why people love FastAPI
+  - Uses Python (easy language)
+  - Very high performance
+  - Auto documentation
+  - Built-in validation (very important)
+  - Great for AI / data science backends
+
+
+
+In one sentence
+  - FastAPI is a modern Python framework used to build fast and easy REST APIs with automatic documentation.

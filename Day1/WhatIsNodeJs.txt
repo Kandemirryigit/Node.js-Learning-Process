@@ -1,0 +1,36 @@
+What is Node.js?
+  - Node.js is a software (runtime environment) that allows you to execute JavaScript on your computer/server, not just in the browser.
+  Normally:
+  - JavaScript → runs in the browser (Chrome, Firefox)
+  With Node.js:
+  - JavaScript → can run on a server or your computer like Python or Java
+
+
+
+Simple idea
+ - Think of it like this:
+   - Browser JavaScript → “frontend brain”
+   - Node.js JavaScript → “backend brain”
+ - So Node.js turns JavaScript into a backend language
+
+
+What can you do with Node.js?
+  - You can build:
+    - Web servers (APIs)
+    - Backend systems
+    - Chat apps (real-time apps)
+    - Tools (like CLI apps)
+    - Database-connected apps
+
+
+Why people use Node.js?
+  - Very fast (built on Chrome V8 engine)
+  - Handles many users at the same time easily
+  - Huge ecosystem (npm packages)
+  - One language for frontend + backend (JavaScript)
+
+
+
+Important concept
+ - Node.js is NOT a language.
+ - It is: a tool that runs JavaScript outside the browser

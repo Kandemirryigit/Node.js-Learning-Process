@@ -1,0 +1,36 @@
+What is a REST API?
+  - A REST API is a way for different software systems to communicate with each other over the internet using HTTP (like web requests).
+
+
+Simple explanation
+  - Think of it like this:
+    - You = client (browser or mobile app)
+    - Server = backend (database + logic)
+    - REST API is the messenger between them
+    - You send a request → server responds with data.
+
+
+Example in real life
+  - Imagine an app like Instagram:
+   - You open the app → it asks server: “Give me posts”
+   - Server responds with JSON data
+   - App shows posts on screen
+   - That communication is a REST API.
+
+
+Why REST APIs are important?
+  - Works with any language (Java, Python, JS, etc.)
+  - Simple and standardized
+  - Used in almost all modern web/mobile apps
+  - Perfect for frontend ↔ backend communication
+
+
+Connection to what you're learning
+  - Node.js = backend runtime
+  - Express.js = makes backend easier
+  - REST API = the system you build with them
+  - So when you use Express, you are often building REST APIs.
+
+
+In one sentence
+  - A REST API is a system that allows apps to communicate with servers using HTTP requests and standard operations like GET, POST, PUT, and DELETE.
