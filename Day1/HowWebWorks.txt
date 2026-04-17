@@ -1,0 +1,33 @@
+1. What is the Web?
+  - The web is a system where:
+  - Clients (browsers) request data
+  - Servers send back data
+  - Communication happens over the Internet using HTTP/HTTPS
+
+
+
+
+2. Main Components
+
+  - Client (Browser)
+  - Examples:
+    - Chrome
+    - Firefox
+    - Edge
+  - The client:
+  - Sends requests
+  - Displays websites
+
+
+  - Server
+  - A computer that:
+    - Stores website data
+    - Sends responses to clients
+ - Example:
+ - Google servers
+ - YouTube servers
+
+
+
+Internet
+ - The network that connects all computers together.

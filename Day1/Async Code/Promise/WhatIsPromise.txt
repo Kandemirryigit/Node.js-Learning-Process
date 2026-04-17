@@ -1,0 +1,24 @@
+What is a Promise in Node.js?
+  - A Promise is an object that represents:
+  - “A value that will be available in the future”
+  - Instead of blocking the program (like sync code), it says:
+  - “Wait… I’ll give you the result later.”
+
+
+
+Real Life Example
+  - Think like this:
+  - You order food 
+  - You don’t stand in the kitchen
+  - You get a receipt (Promise)
+  - Later:
+  - Food comes → resolved
+  - Order canceled → rejected
+
+
+
+Promise States
+  - A Promise has 3 states:
+  - 1.Pending → still waiting
+  - 2.Resolved (fulfilled) → success
+  - 3.Rejected → error

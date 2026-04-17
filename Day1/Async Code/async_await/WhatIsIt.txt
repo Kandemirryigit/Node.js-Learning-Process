@@ -1,0 +1,30 @@
+Definition
+  - async / await is a way to work with Promises in a simpler, cleaner style.
+  - It makes asynchronous code look like normal (synchronous) code.
+
+
+async keyword
+  -What it does:
+    - Makes a function return a Promise automatically
+    - Allows you to use await inside that function
+
+
+await keyword
+  - What it does:
+    - Pauses execution inside async function
+    - Waits until a Promise is resolved
+    - Then returns the result
+
+
+Important rules
+  - await only works inside async functions
+  - It makes code look synchronous
+  - It still runs asynchronously behind the scenes
+
+
+
+Simple summary
+  - async → makes function return a Promise
+  - await → waits for Promise result
+  - Makes async code easier to read
+  - Used everywhere in Node.js (APIs, DB, file system)

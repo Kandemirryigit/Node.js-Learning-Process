@@ -1,0 +1,40 @@
+Definition
+  - Asynchronous code means:
+  - Code does NOT wait
+  - Long operations run in the background
+  - Other code continues immediately
+
+
+Why Async is IMPORTANT in Node.js
+  - Node.js servers handle many users:
+
+  - Without async (sync)
+    - One request blocks everything
+    - Other users wait
+
+  - With async
+    - One request runs in background
+    - Server handles other users
+
+  - This is why Node.js is fast
+
+
+
+Real-life analogy
+  - Async = smart waiter
+  - 1.Takes your order
+  - 2.Sends it to kitchen
+  - 3.Takes other orders
+  - 4.Comes back when food is ready
+  - No waiting → efficient system
+
+
+
+Summary (ASYNC)
+  - Doesn’t wait
+  - Non-blocking
+  - Runs background tasks
+  - Makes Node.js scalable
+
+
+

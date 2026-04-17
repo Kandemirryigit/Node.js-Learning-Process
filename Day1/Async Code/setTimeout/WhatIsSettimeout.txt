@@ -1,0 +1,8 @@
+Definition
+  - setTimeout is a function used to run a piece of code once after a specified delay.
+
+
+Syntax
+  - setTimeout(function, delayInMilliseconds);
+  - function → code you want to run
+  - delayInMilliseconds → waiting time before running (1 second = 1000 ms)
