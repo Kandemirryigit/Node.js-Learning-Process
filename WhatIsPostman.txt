@@ -1,0 +1,30 @@
+Postman (Definition)
+  - Postman is a tool used to test, send, and debug API requests without needing a frontend (like a website or mobile app).
+
+
+Why Postman is used?
+  - When you build a backend (Node.js, Express, Spring Boot, etc.), you create APIs like:
+  - GET /users → get data
+  - POST /login → send data
+  - PUT /user/1 → update data
+  - DELETE /user/1 → delete data
+  - Postman helps you manually test these APIs.
+
+
+
+What you can do with Postman
+  - Send HTTP requests (GET, POST, PUT, DELETE)
+  - See responses from server (JSON, text, status codes)
+  - Test APIs before frontend is ready
+  - Debug errors in backend
+  - Save and organize API requests (collections)
+
+
+
+Why developers love it
+  - Faster than browser testing
+  - Works with all HTTP methods
+  - Helps backend development workflow
+  - Very important for API development
+
+ 
